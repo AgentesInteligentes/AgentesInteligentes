@@ -21,7 +21,7 @@ Se les considera entonces como entes con cierto nivel de autonomía que les perm
 
 <center>
 <h2>Hay muchos tipos de agentes inteligentes, entre los cuales podemos destacar cinco tipos:<h2>
-</center>
+
 
 <font color="#0040FF">
 <h3>Agentes reflejos simples</h3>
