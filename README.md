@@ -4,7 +4,6 @@
 <center>
 <font color="light blue">
 <h1>Agentes Inteligentes</h1>
-</center>
 </font>
 
 
@@ -92,7 +91,5 @@ Se les considera entonces como entes con cierto nivel de autonomía que les perm
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qoJqutd8Q2k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </center>
 
-</body>
-
 <a href="GRUPO1-ISC.html" target="_blank">Ir a la página principal</a>
-</html> 
+
