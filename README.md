@@ -1,8 +1,5 @@
 <html>
-<head>
-
-</head>
-
+<body>
   
 <center>
 <font color="light blue">
