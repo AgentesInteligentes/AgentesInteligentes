@@ -4,7 +4,7 @@
 <center>
 <font color="light blue">
 <h1>Agentes Inteligentes</h1>
-</center>
+
 </font>
 
 
