@@ -1,11 +1,12 @@
 <html>
 <body>
-  
+<body bgcolor="#98E74A"> 
 <center>
 <font color="light blue">
 <h1>Agentes Inteligentes</h1>
-</font>
 </center>
+</font>
+
 
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/tXBXVSj/Scan01.jpg" alt="Scan01" border="0" width="180" height="180" align=right></a>
@@ -13,7 +14,7 @@
 <br>
 
 
-<body bgcolor="#98E74A">
+
 <p>Así como utilizar el asistente de voz de nuestro celular como el de Google o Siri, el pedirle ayuda a Alexa que ponga alguna canción, atender las sugerencias de productos que nos hacen páginas como Amazon y obtener información a través de nuestro Google Maps, tan solo son algunos de los ejemplos de cómo los agentes inteligentes forman ya parte de la vida diaria de lo que podríamos decir inclusive millones de personas en todo el mundo.
 Se les considera entonces como entes con cierto nivel de autonomía que les permite ejecutar labores específicas predecibles y repetitivas. Dígase entonces que estos poseen la capacidad de aprender, de ahí su denominación "Inteligentes". Sus funciones principales incluyen la percepción y la acción. La percepción se lleva a cabo a través de sensores, mientras que las aciones se inician por medio de los actuadores.<p>
 
