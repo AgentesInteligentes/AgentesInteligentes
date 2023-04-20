@@ -1,10 +1,9 @@
-#Agentes Inteligentes
 <html>
 <head>
 
 </head>
 
-<title> Agentes Inteligentes</title>
+  
 <center>
 <font color="light blue">
 <h1>Agentes Inteligentes</h1>
