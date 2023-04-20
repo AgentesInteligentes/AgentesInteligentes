@@ -1,6 +1,6 @@
 <html>
 <body>
-<body bgcolor="#98E74A"> 
+<body bgcolor="green"> 
 <center>
 <font color="light blue">
 <h1>Agentes Inteligentes</h1>
